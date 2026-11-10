@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Sayeed Anwar 👋
 
-<!--
-**sayeedverse/sayeedverse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring AI & ML Engineer
 
-Here are some ideas to get you started:
+I'm a B.Tech CSE (AI & ML) student at Galgotias University.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am passionate about learning Artificial Intelligence,
+Machine Learning, and solving programming problems.
+
+## About Me
+
+- 🎓 Pursuing B.Tech in CSE (AI & ML)
+- 💻 Practicing Data Structures & Algorithms
+- 🌱 Learning Java and AI/ML fundamentals
+- 🎯 Goal: Become an AI & ML Engineer
+
+## Currently Learning
+
+- Data Structures & Algorithms
+- Java Programming
+- Artificial Intelligence
+- Machine Learning
