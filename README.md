@@ -2,7 +2,7 @@
 
 ### Aspiring AI & ML Engineer
 
-I'm a B.Tech CSE (AI & ML) student at Galgotias University.
+I'm a B.Tech CSE (AI & ML) student.
 
 I am passionate about learning Artificial Intelligence,
 Machine Learning, and solving programming problems.
