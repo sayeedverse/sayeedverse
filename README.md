@@ -54,5 +54,5 @@ Machine Learning, and solving programming problems.
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/github/FFFFFF" width="45" height="45" alt="GitHub" />
   &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="VS Code" />
+ <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="VS Code" />
 
