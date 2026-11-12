@@ -41,3 +41,19 @@ Machine Learning, and solving programming problems.
     <img src="https://cdn.simpleicons.org/codeforces" width="50" height="50" alt="Codeforces" />
   </a>
 </p>
+
+
+<h2>🛠️ Tech Stack & Tools</h2>
+
+<p align="left">
+  <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="45" height="45" alt="C++" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/openjdk/ED8B00" width="45" height="45" alt="Java" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/git/F05032" width="45" height="45" alt="Git" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="45" height="45" alt="GitHub" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="45" height="45" alt="VS Code" />
+</p>
+
