@@ -59,6 +59,6 @@ Machine Learning, and solving programming problems.
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sayeedverse&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayeedverse&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-stats-extended.vercel.app/api?username=sayeedverse&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sayeedverse&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </p>
