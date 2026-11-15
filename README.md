@@ -62,3 +62,9 @@ Machine Learning, and solving programming problems.
   <img src="https://github-stats-extended.vercel.app/api?username=sayeedverse&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sayeedverse&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </p>
+
+<h2>🔥 Contribution Streak</h2>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sayeedverse&theme=tokyonight&hide_border=true" />
+</p>
