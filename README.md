@@ -68,3 +68,22 @@ Machine Learning, and solving programming problems.
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sayeedverse&theme=tokyonight&hide_border=true" />
 </p>
+
+<h2>🚀 Featured Projects</h2>
+
+<table>
+  <tr>
+    <td width="100%">
+      <h3>⚡ Sayeed-Speed-X</h3>
+      <p>
+        A lightweight Chrome extension to control video playback speed
+        from 0x to 64x with precision controls and quick presets.
+      </p>
+      <p>
+        <a href="https://github.com/sayeedverse/Sayeed-Speed-X">
+          View Project →
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
