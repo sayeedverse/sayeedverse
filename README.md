@@ -74,7 +74,7 @@ Machine Learning, and solving programming problems.
 <table>
   <tr>
     <td width="100%">
-      <h3>⚡ Sayeed-Speed-X</h3>
+      <h3> Sayeed-Speed-X</h3>
       <p>
         A lightweight Chrome extension to control video playback speed
         from 0x to 64x with precision controls and quick presets.
