@@ -95,12 +95,10 @@ Machine Learning, and solving programming problems.
 
 <h2>🤝 Connect With Me</h2>
 
+<h2>🤝 Connect With Me</h2>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/sayeed-anwar-569188286/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/sayeedverse" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub" />
   </a>
 </p>
