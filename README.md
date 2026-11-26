@@ -1,5 +1,9 @@
 # Hi, I'm Sayeed Anwar 👋
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22B8CF&center=true&vCenter=true&width=650&lines=Aspiring+AI+%26+ML+Engineer;Exploring+Computer+Vision;Learning+DSA+in+C%2B%2B" alt="Typing SVG" />
+</p>
+
 ### Aspiring AI & ML Engineer
 
 I'm a B.Tech CSE (AI & ML) student.
